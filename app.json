@@ -67,7 +67,7 @@
     "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to audio reply",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "BLOCK_ALL": {
