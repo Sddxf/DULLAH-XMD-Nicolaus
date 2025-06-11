@@ -153,7 +153,7 @@
     "AUTO_REACTION": {
       "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
-      "value": "yes"
+      "value": "no"
       },
       "ANTIDELETE2" : {
     "description": "if you want to enable anti delete in conversation put yes else put no",
